@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Sample Book 1",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Sample Book 2",
+      "author": "Jane Smith"
+    }
+  ]
+}
